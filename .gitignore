@@ -34,3 +34,6 @@ ngrok.yml
 
 # Cloudflare App (Separate Git Repository)
 cloudflare-app/
+
+# Logs
+logs/
